@@ -5,7 +5,7 @@ Full-Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Lucknow, India
-* 🖥️  See my portfolio at [Developer Portfolio](http://sunder-kirei.github.io/)
+* 🖥️  See my portfolio at [sunder-kirei.github.io](http://sunder-kirei.github.io/)
 * ✉️  You can contact me at [sunder-kirei@outlook.com](mailto:sunder-kirei@outlook.com)
 * 🧠  I'm learning Java and Tensorflow
 
